@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mysql": "^2.18.1"
+  },
+  "name": "server",
+  "description": "server for handling login and saving user data, wil use mysql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcheering/blackjack.git"
+  },
+  "keywords": [
+    "blackjack",
+    "MERN",
+    "React",
+    "Express",
+    "MySQL",
+    "authentication"
+  ],
+  "author": "Matthew Heering",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcheering/blackjack/issues"
+  },
+  "homepage": "https://github.com/mcheering/blackjack#readme"
+}
